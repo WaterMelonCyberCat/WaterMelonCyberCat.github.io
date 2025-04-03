@@ -23,13 +23,18 @@ Currently, I am a student studying to become a **Higher Technician in Systems an
 I’m working on several exciting projects that aim to simplify and secure the digital landscape. Here’s a glimpse at what I’ve been up to:
 
 - **LAMP 🖥️**  
+<li><a href="https://github.com/WaterMelonCyberCat/LAMPS">Repository LAMP</a></li>
   A classic yet powerful stack (Linux, Apache, MySQL, PHP) that’s always relevant for web development projects. I’ve got my own spin on it for enhanced functionality and ease of use.
 
 - **User Injector 👤**  
+<li><a href="https://github.com/WaterMelonCyberCat/User-injector">Repository User Injector</a></li>
+
   This project allows for seamless user creation and management in various environments, making system administration more efficient and secure.
 
-- **And Much More to Come... 🔧**  
-  I’m constantly working on new and exciting projects to tackle the challenges of tomorrow’s digital world. Stay tuned for more releases!
+- **Debian Post Install 🖥️** 
+<li><a href="https://github.com/WaterMelonCyberCat/tssr-linux-debian-post-install">Repository Debian Post Install Forked form beanbat</a></li>
+
+Effortlessly deploy Debian with our streamlined installation process. Clone the repository, follow the guided setup, and configure your system with ease. A smooth, reliable experience—just a few steps away.
 
 ---
 
