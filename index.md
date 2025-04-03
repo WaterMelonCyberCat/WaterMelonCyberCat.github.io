@@ -44,7 +44,8 @@ Effortlessly deploy Debian with our streamlined installation process. Clone the 
 
 I’m always open to collaboration and feedback. You can check out all of my repositories below and follow my journey as I continue to evolve and share my work with the world.
 
-[View my GitHub Repositories](https://github.com/your-username)  
+<li><a href="https://github.com/WaterMelonCyberCat?tab=repositories">My Repositories</a></li>
+
 See you in the other side! 👾
 
 
